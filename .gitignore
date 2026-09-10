@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Conversation data (generated at runtime)
+backend/data/
+data/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
