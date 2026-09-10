@@ -119,6 +119,3 @@ python test_openrouter.py "meta-llama/llama-3.1-8b-instruct:free"
 - **Run the backend as a module, not a script.** `python -m backend.main` from the project root, not `python backend/main.py` — the backend's relative imports require it.
 - **Fewer council members is a safety valve, not just a cost lever.** Dropping from 4 to 2–3 models reduces both API calls and how often you hit free-tier rate limits at the same time.
 
-## License
-
-Add a license (e.g. MIT or Apache-2.0) before making the repo public if you want to specify how others may use this code.
