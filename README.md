@@ -2,7 +2,7 @@
 ![roundtable](header.jpeg)
 
 
-A multi-model deliberation backend and UI. Instead of asking one LLM and taking its first answer, Roundtable puts several models through a full council process — each answers independently, they anonymously peer-review each other's work, and a chairman model synthesizes a final answer from the best of everything. Built entirely on free OpenRouter models, so running it costs $0.
+LLM Council works together to answer your hardest questions. Instead of asking one LLM and taking its first answer, Roundtable puts several models through a full council process — each answers independently, they anonymously peer-review each other's work, and a chairman model synthesizes a final answer from the best of everything. Built entirely on free OpenRouter models, so running it costs $0.
 
 ## Why this exists
 
